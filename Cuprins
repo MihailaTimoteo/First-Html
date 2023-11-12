@@ -3,8 +3,8 @@
 		<title>Cruprins</title>
 	</head>
 	<body>
-		<h1><a href = "F:\EarthCEO\Desktop\Page1.html">FIRST</a></h1>
-		<h1><a href = "F:\EarthCEO\Desktop\Page2.html">SECOND</a></h1>
-		<h1><a href = "F:\EarthCEO\Desktop\Page3.html">THIRD</a></h1>
+		<h1><a href = "file:///F:/EarthCEO/Desktop/L05/Page1.html">FIRST</a></h1>
+		<h1><a href = "file:///F:/EarthCEO/Desktop/L05/Page2.html">SECOND</a></h1>
+		<h1><a href = "file:///F:/EarthCEO/Desktop/L05/Page3.html">THIRD</a></h1>
 	</body>
 </html>
